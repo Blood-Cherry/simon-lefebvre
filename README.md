@@ -1,2 +1,2 @@
-# simon-lefebvre.github.io
+# simon-lefebvre
 Web Resume
